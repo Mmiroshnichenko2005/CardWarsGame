@@ -1,0 +1,10 @@
+C:\Users\HomePC\Desktop\CardWars\CardWars\obj\Debug\CardWars.csprojAssemblyReference.cache
+C:\Users\HomePC\Desktop\CardWars\CardWars\obj\Debug\CardWars.Form1.resources
+C:\Users\HomePC\Desktop\CardWars\CardWars\obj\Debug\CardWars.Properties.Resources.resources
+C:\Users\HomePC\Desktop\CardWars\CardWars\obj\Debug\CardWars.csproj.GenerateResource.cache
+C:\Users\HomePC\Desktop\CardWars\CardWars\obj\Debug\CardWars.csproj.CoreCompileInputs.cache
+C:\Users\HomePC\Desktop\CardWars\CardWars\bin\Debug\CardWars.exe.config
+C:\Users\HomePC\Desktop\CardWars\CardWars\bin\Debug\CardWars.exe
+C:\Users\HomePC\Desktop\CardWars\CardWars\bin\Debug\CardWars.pdb
+C:\Users\HomePC\Desktop\CardWars\CardWars\obj\Debug\CardWars.exe
+C:\Users\HomePC\Desktop\CardWars\CardWars\obj\Debug\CardWars.pdb
